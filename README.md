@@ -22,7 +22,9 @@
 **[Quick Start](#quick-start)** &nbsp;·&nbsp; **[ Live Demo](https://apdoolhamza.github.io/smartsupport-ai/)** &nbsp;·&nbsp; **[Documentation](DOCS.md)** &nbsp;·&nbsp; **[Issues](https://github.com/apdoolhamza/smartsupport-ai/issues)** 
 
 </div>
+
 ---
+
 <table>
   <tr>
     <td><img src="Screenshots/ui-2.png" width="100%" alt="Light mode chat"></td>
