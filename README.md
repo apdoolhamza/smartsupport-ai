@@ -13,8 +13,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=flat-square)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10+-3b82f6?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.111-059669?style=flat-square&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com)
-[![Gradio](https://img.shields.io/badge/Gradio-4.37-f97316?style=flat-square)](https://gradio.app)
-[![Hugging Face](https://img.shields.io/badge/HuggingFace-Spaces-f59e0b?style=flat-square&logo=huggingface&logoColor=white)](https://huggingface.co/spaces)
 [![FAISS](https://img.shields.io/badge/FAISS-Vector%20Search-7c3aed?style=flat-square)](https://github.com/facebookresearch/faiss)
 [![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square)](CONTRIBUTING.md)
 [![Stars](https://img.shields.io/github/stars/apdoolhamza/smartsupport-ai?style=flat-square&color=f59e0b&label=Stars)](https://github.com/apdoolhamza/smartsupport-ai/stargazers)
