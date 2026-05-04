@@ -1,0 +1,168 @@
+Q: What is your company name?
+A: We are TechGear Store, an electronics retailer based in Kano, Nigeria. We sell laptops,
+   smartphones, tablets, gaming equipment, and accessories. We have been operating since 2018
+   and are an authorized dealer for Samsung, HP, Lenovo, Dell, and Apple.
+
+Q: Where is your store located?
+A: Our showroom is at 45 Computer Village Road, Ikeja, Kano. We are open Monday to Saturday,
+   9:00 AM to 7:00 PM. We are closed on Sundays and public holidays.
+
+Q: How do I contact you?
+A: You can reach us through these channels:
+   WhatsApp: 08012345678 (fastest response, typically within 30 minutes)
+   Phone: 0801-234-5678
+   Email: support@techgearstore.com
+   Support hours: Monday to Saturday, 9 AM to 6 PM.
+
+Q: What products do you sell?
+A: We stock over 500 products including:
+   Laptops from HP, Dell, Lenovo, and Apple (MacBook)
+   Smartphones from Samsung, Apple, Tecno, and Infinix
+   Tablets including iPad and Samsung Galaxy Tab
+   Gaming accessories: headsets, mice, keyboards, monitors, controllers
+   Laptop accessories: bags, monitors, mice, keyboards, hubs, chargers
+   Audio: headphones, earbuds, Bluetooth speakers
+   Power: power banks, fast chargers, UPS units
+
+Q: Are your products original?
+A: Yes. All products are 100% original and sourced from authorized distributors. We do not
+   sell refurbished, grade B, or counterfeit products. All items come with manufacturer
+   warranty and original packaging. You can verify IMEI numbers and serial numbers on
+   manufacturer websites. We have never sold a fake product in over six years of operation.
+
+Q: What are your laptop prices?
+A: Our laptop prices range as follows:
+   Budget laptops (i3/Ryzen 3): 200,000 to 280,000 NGN
+   Mid-range laptops (i5/Ryzen 5): 320,000 to 500,000 NGN
+   High-end laptops (i7/Ryzen 7): 500,000 to 850,000 NGN
+   MacBook Air M2: 1,100,000 NGN
+   MacBook Air M3: 1,300,000 NGN
+   MacBook Pro 14-inch M3 Pro: 1,900,000 NGN
+   Gaming laptops start at 450,000 NGN.
+   All laptops include genuine Windows 11 or macOS, original charger, and warranty.
+
+Q: What are your phone prices?
+A: Smartphone price ranges:
+   Budget phones (Tecno, Infinix): 70,000 to 150,000 NGN
+   Mid-range Samsung Galaxy A series: 130,000 to 250,000 NGN
+   Samsung Galaxy S series: 450,000 to 800,000 NGN
+   iPhone 14: 650,000 NGN (128GB) to 720,000 NGN (256GB)
+   iPhone 15: 850,000 NGN (128GB) to 950,000 NGN (256GB)
+   iPhone 15 Pro: 1,150,000 NGN (128GB)
+
+Q: What payment methods do you accept?
+A: We accept:
+   Bank transfer to any Nigerian bank
+   Card payment online via Paystack (Visa, Mastercard, Verve)
+   Cash payment at our Ikeja showroom
+   USSD transfer
+   We do not accept cryptocurrency.
+
+Q: Do you offer installment payment?
+A: Yes. We offer buy-now-pay-later through Carbon, FairMoney, and Credpal.
+   Available on orders above 100,000 NGN. Up to 12 months repayment period.
+   A valid BVN is required. Interest rates vary by provider, typically 3 to 5 percent
+   per month. Contact us on WhatsApp to check your eligibility.
+
+Q: Do you deliver?
+A: Yes, we deliver nationwide to all 36 states including FCT Abuja.
+
+Q: How much is delivery?
+A: Delivery fees:
+   Kano same-day delivery (order before 12 PM): 3,000 NGN
+   Kano next-day delivery: 2,000 NGN
+   Abuja: 4,500 NGN
+   Port Harcourt: 4,500 NGN
+   Other major cities (Kano, Ibadan, Enugu, Benin): 4,000 to 6,000 NGN
+   Remote areas: 6,000 to 10,000 NGN
+   Free delivery applies to orders above 500,000 NGN within Kano.
+
+Q: How long does delivery take?
+A: Kano same-day: order before 12 PM, receive same day.
+   Kano standard: 1 to 2 business days.
+   Abuja and Port Harcourt: 2 to 3 business days.
+   Other major cities: 3 to 5 business days.
+   Remote areas: 5 to 7 business days.
+
+Q: How do I track my order?
+A: Once your order is dispatched, we send you a tracking number via WhatsApp and email.
+   You can track on the courier's website. You can also WhatsApp us with your order number
+   at any time for a real-time update.
+
+Q: What is your return policy?
+A: We accept returns under these conditions:
+   The item is faulty or defective out of the box.
+   The item received is different from what was ordered.
+   The item was damaged during delivery.
+   Returns must be initiated within 7 days of delivery.
+   The item must be unused, in original condition, with all packaging, accessories, and receipt.
+   We do not accept returns for change of mind.
+
+Q: How do I make a return?
+A: To return an item:
+   1. WhatsApp us at 08012345678 within 7 days with photos or video evidence of the issue.
+   2. Our team will assess and respond within 24 hours.
+   3. For Kano customers, we arrange pickup. For other states, we ask you to ship to us.
+   4. After we receive and inspect the item, refund or replacement is processed within
+      5 to 7 business days.
+
+Q: How long do refunds take?
+A: Bank transfer refunds take 3 to 5 business days after we confirm receipt of the returned item.
+   Card payment refunds take 5 to 7 business days. We send a confirmation message once processed.
+
+Q: What warranty do products come with?
+A: Manufacturer warranty coverage:
+   Smartphones: 1 year
+   Laptops: 1 year
+   Accessories, chargers, and cables: 6 months
+   Monitors: 1 to 3 years depending on brand
+   Warranty covers manufacturing defects only. It does not cover physical damage,
+   cracked screens, water damage, or misuse.
+
+Q: Do you offer repair services?
+A: Yes. Our repair center is at our Ikeja location. We repair all major brands.
+   Services include screen replacement, battery replacement, keyboard replacement,
+   charging port repair, motherboard repair, software issues, virus removal,
+   data recovery, RAM upgrade, and SSD upgrade.
+   Diagnosis is always free.
+
+Q: How much do repairs cost?
+A: Approximate repair costs:
+   Phone screen replacement: 15,000 to 130,000 NGN depending on model
+   Phone battery replacement: 8,000 to 28,000 NGN
+   Laptop screen replacement: 45,000 to 120,000 NGN
+   Laptop keyboard replacement: 20,000 to 60,000 NGN
+   Charging port repair: 8,000 to 35,000 NGN
+   Windows 11 installation (genuine license): 25,000 NGN
+   Virus removal: 10,000 NGN
+   Data recovery: 30,000 to 80,000 NGN
+   RAM upgrade (add 8GB): from 35,000 NGN
+   SSD upgrade to 1TB: from 85,000 NGN
+   All repairs include a 3-month warranty.
+
+Q: How long do repairs take?
+A: Screen replacement: same day if parts are in stock.
+   Battery replacement: same day.
+   Motherboard repair: 3 to 7 business days.
+   Data recovery: 2 to 5 business days.
+   Software issues: same day to 2 days.
+
+Q: Do you buy or accept trade-ins?
+A: Yes. We accept trade-ins on phones, laptops, and tablets.
+   Bring the device to our store for a free assessment.
+   The trade-in value is deducted from your new purchase price.
+   The device must be functional, not cracked, and not reported stolen.
+
+Q: Is it safe to shop online with you?
+A: Yes. Online payments are processed through Paystack, which is secured with 256-bit SSL
+   encryption and is PCI DSS compliant. We never store your card details.
+   We have served over 50,000 customers since 2018 with a 4.8-star Google rating.
+
+Q: Do you offer student discounts?
+A: Yes. Students with a valid school ID receive a 3 percent discount on orders above
+   150,000 NGN. This applies to laptops, tablets, and educational software.
+   Show your ID at our store or mention it when ordering via WhatsApp.
+
+Q: Can I pre-order an out-of-stock product?
+A: Yes. Pay a 30 percent deposit to secure your order. Expected delivery is 7 to 14 days.
+   If we cannot fulfill the order, your full deposit is refunded.

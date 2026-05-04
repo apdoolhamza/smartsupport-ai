@@ -1,0 +1,251 @@
+Product: HP Pavilion 15
+Price: 350,000 NGN
+Processor: Intel Core i5 12th Generation
+RAM: 8GB DDR4 (upgradeable to 32GB)
+Storage: 512GB SSD
+Display: 15.6-inch Full HD IPS anti-glare
+Battery: Up to 8 hours
+Operating System: Windows 11 Home (genuine)
+Best for: Students, office professionals, everyday tasks
+Colors: Natural Silver, Warm Gold
+
+Product: Lenovo IdeaPad 5
+Price: 385,000 NGN
+Processor: AMD Ryzen 5 7530U
+RAM: 16GB DDR4
+Storage: 512GB SSD
+Display: 15.6-inch Full HD IPS
+Battery: Up to 10 hours
+Operating System: Windows 11 Home
+Best for: Multitasking, developers, content creators
+Colors: Abyss Blue, Arctic Grey
+
+Product: Dell Inspiron 15 5000
+Price: 420,000 NGN
+Processor: Intel Core i5 12th Generation
+RAM: 16GB DDR5
+Storage: 512GB SSD
+Display: 15.6-inch Full HD 120Hz
+Battery: Up to 10 hours, USB-C charging
+Operating System: Windows 11 Home
+Best for: Creative professionals, developers
+Color: Platinum Silver
+
+Product: MacBook Air 13-inch M2
+Price: 1,100,000 NGN
+Chip: Apple M2 (8-core CPU, 8-core GPU)
+RAM: 8GB unified memory
+Storage: 256GB SSD
+Display: 13.6-inch Liquid Retina, 500 nits
+Battery: Up to 18 hours
+Ports: 2x Thunderbolt 4, MagSafe 3, headphone jack
+Best for: Professionals, creatives, students who need long battery
+Colors: Midnight, Starlight, Space Grey, Silver
+
+Product: MacBook Pro 14-inch M3 Pro
+Price: 1,900,000 NGN
+Chip: Apple M3 Pro (11-core CPU, 14-core GPU)
+RAM: 18GB unified memory
+Storage: 512GB SSD
+Display: 14.2-inch Liquid Retina XDR, ProMotion 120Hz, 1600 nits peak
+Battery: Up to 18 hours
+Ports: 3x Thunderbolt 4, HDMI, SD card reader, MagSafe 3
+Best for: Video editors, software engineers, design professionals
+Colors: Space Black, Silver
+
+Product: HP Victus 15 Gaming Laptop
+Price: 480,000 NGN
+Processor: AMD Ryzen 5 7535HS
+GPU: NVIDIA GeForce RTX 3050 6GB
+RAM: 8GB DDR5
+Storage: 512GB NVMe SSD
+Display: 15.6-inch Full HD 144Hz
+Battery: Up to 6 hours
+Best for: Entry-level gaming, esports titles, game streaming
+
+Product: Lenovo Legion 5 Pro Gaming
+Price: 760,000 NGN
+Processor: AMD Ryzen 7 7745HX
+GPU: NVIDIA GeForce RTX 4060 8GB
+RAM: 16GB DDR5
+Storage: 1TB SSD
+Display: 16-inch QHD IPS 165Hz
+Best for: Mid-to-high range gaming, streaming, creative workloads
+
+Product: Samsung Galaxy A25 5G
+Price: 135,000 NGN
+Display: 6.5-inch Super AMOLED 120Hz
+Processor: Exynos 1280
+RAM: 6GB
+Storage: 128GB
+Camera: 50MP main, 8MP ultra-wide, 2MP macro
+Front Camera: 13MP
+Battery: 5000mAh, 25W fast charge
+Network: 5G
+Colors: Blue, Black, Yellow, Light Green
+
+Product: Samsung Galaxy A54 5G
+Price: 185,000 NGN
+Display: 6.4-inch Super AMOLED 120Hz
+Processor: Exynos 1380
+RAM: 8GB
+Storage: 256GB
+Camera: 50MP OIS, 12MP ultra-wide, 5MP macro
+Front Camera: 32MP
+Battery: 5000mAh, 25W fast charge
+Water resistance: IP67
+Colors: Awesome Black, White, Lime, Violet
+
+Product: Samsung Galaxy S24 Ultra
+Price: 750,000 NGN
+Display: 6.8-inch QHD+ Dynamic AMOLED 2X, 120Hz
+Processor: Snapdragon 8 Gen 3
+RAM: 12GB
+Storage: 256GB
+Camera: 200MP main, 12MP ultra-wide, 50MP 5x telephoto, 10MP 3x telephoto
+Front Camera: 12MP
+Battery: 5000mAh, 45W fast charge, wireless charging
+Extras: S Pen included, titanium frame, IP68 water resistance, 5G
+Colors: Titanium Black, Grey, Violet, Yellow
+
+Product: iPhone 14
+Price: 650,000 NGN (128GB), 720,000 NGN (256GB)
+Display: 6.1-inch Super Retina XDR OLED
+Chip: A15 Bionic
+Camera: 12MP main, 12MP ultra-wide
+Front Camera: 12MP TrueDepth
+Battery: All-day, 20W fast charge, MagSafe wireless charging
+Network: 5G
+OS: iOS 17
+Colors: Blue, Purple, Midnight, Starlight, Red, Yellow
+
+Product: iPhone 15
+Price: 850,000 NGN (128GB), 950,000 NGN (256GB)
+Display: 6.1-inch Super Retina XDR OLED
+Chip: A16 Bionic
+Camera: 48MP main, 12MP ultra-wide
+Front Camera: 12MP with autofocus
+Extras: Dynamic Island, USB-C connector, MagSafe
+Network: 5G
+OS: iOS 17
+Colors: Pink, Yellow, Green, Blue, Black
+
+Product: iPhone 15 Pro
+Price: 1,150,000 NGN (128GB), 1,280,000 NGN (256GB)
+Display: 6.1-inch Super Retina XDR ProMotion 120Hz
+Chip: A17 Pro
+Camera: 48MP main, 12MP ultra-wide, 12MP 3x telephoto
+Extras: Action Button, titanium frame, USB-C (USB 3 speed)
+Network: 5G
+Colors: Black Titanium, White Titanium, Blue Titanium, Natural Titanium
+
+Product: Tecno Camon 20 Pro
+Price: 88,000 NGN
+Display: 6.67-inch AMOLED 120Hz
+Processor: MediaTek Helio G99
+RAM: 8GB
+Storage: 256GB
+Camera: 64MP main
+Battery: 5000mAh, 33W fast charge
+Best for: Budget-conscious buyers who want a good camera
+
+Product: Apple iPad 10th Generation
+Price: 320,000 NGN (WiFi, 64GB)
+Display: 10.9-inch Liquid Retina
+Chip: A14 Bionic
+Front Camera: 12MP ultra-wide (landscape, ideal for video calls)
+Connector: USB-C
+Best for: Students, media consumption, light productivity
+
+Product: Apple iPad Air M1
+Price: 520,000 NGN (WiFi, 64GB)
+Display: 10.9-inch Liquid Retina
+Chip: M1
+Connector: USB-C (USB 3 speed)
+Compatible with: Apple Pencil 2nd generation, Magic Keyboard
+Best for: Creative work, note-taking, design, professionals
+
+Product: Samsung Galaxy Tab S9
+Price: 480,000 NGN
+Display: 11-inch Dynamic AMOLED 2X 120Hz
+Processor: Snapdragon 8 Gen 2
+RAM: 8GB
+Storage: 128GB
+Water resistance: IP68
+Extras: S Pen included
+Best for: Note-taking, creative work, multimedia
+
+Product: Apple AirPods Pro 2nd Generation
+Price: 185,000 NGN
+Features: Active noise cancellation, transparency mode, adaptive audio
+Battery: Up to 30 hours total with charging case
+Case: USB-C charging case
+Water resistance: IPX4
+
+Product: Sony WH-1000XM5 Headphones
+Price: 185,000 NGN
+Features: Industry-leading noise cancellation, 30-hour battery,
+          multipoint connection for two devices simultaneously
+Best for: Commuters, remote workers, frequent travelers
+
+Product: Logitech MX Master 3 Mouse
+Price: 48,000 NGN
+Features: Hyper-fast scrolling, 8 customizable buttons,
+          works across 3 computers simultaneously
+Battery: 70 days per charge via USB-C
+Compatible with: Windows, macOS, Linux
+
+Product: Anker 65W USB-C GaN Charger (3 ports)
+Price: 28,000 NGN
+Ports: 2x USB-C, 1x USB-A
+Can simultaneously charge: laptop, phone, and earbuds
+Size: Compact, travel-friendly
+
+Product: Anker 20,000mAh Power Bank 65W
+Price: 55,000 NGN
+Can charge: Laptops and phones
+Ports: 2x USB-C, 1x USB-A
+Display: LED battery percentage indicator
+
+Service: Phone Screen Replacement
+Price range: 15,000 to 130,000 NGN depending on device model
+Turnaround: Same day if parts are in stock
+Warranty: 3 months on parts and labor
+
+Service: Phone Battery Replacement
+Price range: 8,000 to 28,000 NGN
+Turnaround: Same day
+Warranty: 3 months
+
+Service: Laptop Screen Replacement
+Price range: 45,000 to 120,000 NGN
+Turnaround: 1 to 3 days depending on parts availability
+Warranty: 3 months
+
+Service: Laptop Keyboard Replacement
+Price range: 20,000 to 60,000 NGN
+Turnaround: Same day to 2 days
+
+Service: Data Recovery
+Price range: 30,000 to 80,000 NGN
+Success rate: 85 percent (no charge if unsuccessful)
+Turnaround: 2 to 5 business days
+
+Service: RAM Upgrade (add 8GB)
+Price: from 35,000 NGN (parts and labor)
+Compatible with most HP, Dell, and Lenovo laptops
+
+Service: SSD Upgrade to 1TB
+Price: from 85,000 NGN (parts and labor)
+Turnaround: Same day
+
+Service: Windows 11 Installation (genuine license)
+Price: 25,000 NGN
+Includes: Genuine Windows 11 license, drivers, basic setup
+
+Service: Virus Removal and Cleanup
+Price: 10,000 NGN
+Includes: Full scan, removal, and basic optimization
+
+All repair services include free diagnosis.
+All completed repairs carry a 3-month warranty on parts and labor.

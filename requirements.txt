@@ -1,0 +1,11 @@
+faiss-cpu==1.13.2
+fastapi==0.136.1
+numpy==2.4.4
+pdfplumber==0.11.9
+pydantic==2.13.3
+sentence_transformers==2.7.0
+torch==2.11.0+cpu
+transformers==4.41.2
+uvicorn==0.46.0
+hf_xet==1.4.3
+python-dotenv==1.2.2
